@@ -6,3 +6,5 @@
 - 📫 How to reach me: email me.
 - 😄 Pronouns: me
 - ⚡ Fun fact: 60 sec = 1 min.
+
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
