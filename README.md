@@ -1,7 +1,7 @@
 <!-- Luchi Profile v2.0 · Designed for GitHub README rendering -->
 <div align="center">
 
-<img src="./assets/luchi/hero-banner.jpg" alt="Luchi welcomes you to hakuei0115's GitHub — AI Engineer, LLM and Multi-Agent Systems" width="100%" />
+<img src="./assets/luchi/hero-banner.gif" alt="Luchi welcomes you to hakuei0115's GitHub — AI Engineer, LLM and Multi-Agent Systems" width="100%" />
 
 
 <p align="center">
@@ -44,7 +44,7 @@ I'm an AI engineer working at the intersection of **large language models, agent
 
 ## ✦ Meet Luchi
 
-<img src="./assets/luchi/luchi-portrait.jpg" alt="Luchi, a silver-white-haired AI maid with silver-gray eyes" width="190" align="right" />
+<img src="./assets/luchi/luchi-portrait.jpg" alt="Luchi, a silver-white-haired AI maid with silver-gray eyes" align="right" />
 
 **Luchi (露希)** is my original AI maid companion and the visual mascot of **Maid Core**. Her gentle silver-gray eyes and silver-white wavy hair represent the softer side of a deeply technical project: how can an AI companion remain consistent, remember meaningful interactions, and grow through shared experiences?
 
@@ -53,8 +53,8 @@ Maid Core explores that question through **persona design, long-term memory, LLM
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=hakuei0115&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=hakuei0115&hide_border=true&background=F8F7FC&ring=C8C8D7&fire=8AA6FF&currStreakLabel=524B5A&sideLabels=524B5A&dates=8C84A6&currStreakNum=524B5A&sideNums=524B5A"
+    alt="GitHub Streak Stats"
   />
 </p>
 
